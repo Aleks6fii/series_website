@@ -4,4 +4,4 @@ preloader.classList.add('active');
 
 setTimeout(() => {
     preloader.classList.remove('active')
-}, 2500);
+}, 500);

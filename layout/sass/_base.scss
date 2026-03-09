@@ -187,8 +187,8 @@ ol {
   padding: 12px 30px;
 }
 
-/* Preloder */
-.preloder {
+/* Preloader */
+.preloader {
   position: fixed;
   width: 100%;
   height: 100%;
@@ -201,7 +201,7 @@ ol {
   transition: .2s;
 }
 
-.preloder.active {
+.preloader.active {
   visibility: visible;
   opacity: 1;
 }
